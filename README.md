@@ -26,4 +26,4 @@ I'm passionate about AI, RoboTech, coding and design.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximillien)](https://github.com/anuraghazra/github-readme-stats)
 
 ##**Banner**
-![Banner](Banner.png)
+![Banner](nanner.png)
