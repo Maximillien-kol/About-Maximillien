@@ -1,7 +1,8 @@
 # Hi, I'm **Maximillien** 👋
 
 I'm passionate about AI, RoboTech, coding and design.
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maximillien-kol)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Maximillien-kol&theme=dark)
+
 
 ## 🛠 **Skills**
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ES6-yellow)
