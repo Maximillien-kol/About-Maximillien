@@ -26,7 +26,6 @@ I'm passionate about AI, RoboTech, coding and design.
 
 ## 📂 **Projects**
 - [Kira](https://github.com/maximillien/kira) - SMS-based medication reminder platform
-- [Cheemba](https://github.com/maximillien/cheemba) - AI-powered smart dustbin
 
 ## 📊 **GitHub Stats**
 ![Maximillien's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximillien&show_icons=true&theme=radical)
