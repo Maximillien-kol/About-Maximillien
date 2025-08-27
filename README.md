@@ -11,11 +11,11 @@ I'm passionate about AI, RoboTech, coding and design.
 <div align="center">
 
 ## 🛠 **Skills**
-![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-black)
-![TAILWIND](https://img.shields.io/badge/REACT&TAILWINDCSS-blue)
-![NEXTJS](https://img.shields.io/badge/CNEXTJS-black)
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-BROWN)
+![TAILWIND](https://img.shields.io/badge/TAILWINDCSS-blue)
+![NEXTJS](https://img.shields.io/badge/NEXTJS-black)
 ![NODEJS](https://img.shields.io/badge/NODEJS-green)
-![REACT](https://img.shields.io/badge/REACT&TAILWINDCSS-blue)
+![REACT](https://img.shields.io/badge/REACT-GREY)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![PYTHON](https://img.shields.io/badge/PYTHON-ES6-white)
 ![C](https://img.shields.io/badge/C-blue)
