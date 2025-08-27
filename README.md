@@ -11,13 +11,15 @@ I'm passionate about AI, RoboTech, coding and design.
 <div align="center">
 
 ## 🛠 **Skills**
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-black)
+![TAILWIND](https://img.shields.io/badge/REACT&TAILWINDCSS-blue)
+![NEXTJS](https://img.shields.io/badge/CNEXTJS-black)
+![NODEJS](https://img.shields.io/badge/NODEJS-green)
+![REACT](https://img.shields.io/badge/REACT&TAILWINDCSS-blue)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![REACT & TAILWIND](https://img.shields.io/badge/REACT&TAILWINDCSS-blue)
-![NODEJS](https://img.shields.io/badge/NODEJS-orange)
-![NEXTJS](https://img.shields.io/badge/CNEXTJS-blue)
-![PYTHON](https://img.shields.io/badge/PYTHON-ES6-yellow)
-![C++](https://img.shields.io/badge/C++-orange)
+![PYTHON](https://img.shields.io/badge/PYTHON-ES6-white)
 ![C](https://img.shields.io/badge/C-blue)
+![C++](https://img.shields.io/badge/C++-orange)
 
 
 - AI & Machine Learning, Web Development & Startup Building
@@ -25,7 +27,7 @@ I'm passionate about AI, RoboTech, coding and design.
 - Figma, XD, Framer and SolidWorks
 
 ## 📂 **Projects**
-- [Kira](https://github.com/maximillien/kira) - SMS-based medication reminder platform
+[Kira](https://github.com/maximillien/kira) - SMS-based medication reminder platform
 
 ## 📊 **GitHub Stats**
 ![Maximillien's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximillien&show_icons=true&theme=radical)
